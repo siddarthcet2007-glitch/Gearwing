@@ -4,6 +4,12 @@
 
 GEARWING: Flight Protocol is a 2D arcade flight game developed using **Python and Pygame**, inspired by the combination of mechanical gears and flight. The player controls a mechanical flying character, navigates through gear-themed obstacles, and uses a special boost ability to survive and achieve a higher score.
 
+## 🎮 Gameplay Screenshot
+
+![GEARWING gameplay](screenshots/gearwing-gameplay.png)
+
+*GEARWING: Flight Protocol — a mechanical flight arcade game built around the Gear + Flight theme.*
+
 ## 🎮 Game Features
 
 - **Gear-Inspired Design:** Mechanical visuals and gear-themed obstacles bring the Gear concept into the gameplay.
