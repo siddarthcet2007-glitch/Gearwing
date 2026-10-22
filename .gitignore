@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+best_score.txt
+player_data.json
+total_gears.txt
